@@ -1,0 +1,11 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Runtime-generated dataset files
+data/
+cifar_temp/
+cifar-10-python.tar.gz
+model.pth
